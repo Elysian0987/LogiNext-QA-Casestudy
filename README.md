@@ -1,0 +1,1 @@
+# LogiNext-QA-Casestudy
